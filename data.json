@@ -1,0 +1,74 @@
+{
+  "events": {
+    "1": {
+      "title": "React Summit 2025",
+      "date": "2025-09-10",
+      "location": "Bangalore, India",
+      "image": "https://via.placeholder.com/400x200?text=React+Summit",
+      "description": "A conference for React enthusiasts."
+    },
+    "2": {
+      "title": "Cloud Expo",
+      "date": "2025-10-05",
+      "location": "Hyderabad, India",
+      "image": "https://via.placeholder.com/400x200?text=Cloud+Expo",
+      "description": "The latest in cloud technologies."
+    },
+    "3": {
+      "title": "Event Platform Meetup",
+      "date": "2025-11-01",
+      "location": "Mumbai, India",
+      "image": "https://via.placeholder.com/400x200?text=Meetup",
+      "description": "Networking and learning session for event organizers."
+    },
+    "4": {
+      "title": "JavaScript Conference",
+      "date": "2025-09-20",
+      "location": "Delhi, India",
+      "image": "https://via.placeholder.com/400x200?text=JS+Conf",
+      "description": "All about modern JavaScript trends."
+    },
+    "5": {
+      "title": "CSS Design Workshop",
+      "date": "2025-10-15",
+      "location": "Chennai, India",
+      "image": "https://via.placeholder.com/400x200?text=CSS+Workshop",
+      "description": "Hands-on workshop for creative CSS designs."
+    },
+    "6": {
+      "title": "Node.js Bootcamp",
+      "date": "2025-11-10",
+      "location": "Pune, India",
+      "image": "https://via.placeholder.com/400x200?text=Node+Bootcamp",
+      "description": "Learn Node.js from scratch in 2 days."
+    },
+    "7": {
+      "title": "AI & Machine Learning Meetup",
+      "date": "2025-12-05",
+      "location": "Bangalore, India",
+      "image": "https://via.placeholder.com/400x200?text=AI+Meetup",
+      "description": "Discuss latest trends in AI & ML."
+    },
+    "8": {
+      "title": "Startup Pitch Event",
+      "date": "2025-12-20",
+      "location": "Hyderabad, India",
+      "image": "https://via.placeholder.com/400x200?text=Startup+Pitch",
+      "description": "Pitch your startup ideas to investors."
+    },
+    "9": {
+      "title": "Design Thinking Workshop",
+      "date": "2026-01-10",
+      "location": "Mumbai, India",
+      "image": "https://via.placeholder.com/400x200?text=Design+Thinking",
+      "description": "Learn innovative design solutions."
+    },
+    "10": {
+      "title": "Fullstack Developer Conference",
+      "date": "2026-01-25",
+      "location": "Delhi, India",
+      "image": "https://via.placeholder.com/400x200?text=Fullstack+Conf",
+      "description": "Connect with fullstack developers around India."
+    }
+  }
+}
